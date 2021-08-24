@@ -1,0 +1,28 @@
+
+User should have a profile
+
+User is registered with unique mobile no
+
+Profile can have image and status
+
+User can allow/restrict who can view their profile
+
+User can personal chat with other users
+
+Chat message can include message, pictures & videos
+
+User can create groups
+
+User can have admins in groups
+
+Admin can promote/demote other admin/user
+
+Admin can add/remove users or admin from group
+
+Group can also have profile photo & status & name
+
+Authentication/Authorization shall be token based
+
+
+
+
